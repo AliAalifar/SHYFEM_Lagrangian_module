@@ -215,6 +215,6 @@ On Ubuntu, open the video with:
 ```bash
 xdg-open particle_animation/venice_particles.mp4
 ```
-![Particle movement in the Venice Lagoon]()
+![Particle movement in the Venice Lagoon](https://raw.githubusercontent.com/AliAalifar/SHYFEM_Lagrangian_module/main/venice_particles.gif)
 
 The animation lets us follow successive releases and their redistribution through the lagoon. Changes in the number of visible particles can reflect new releases and particles leaving the active set. A horizontal position plot alone does not show the vertical redistribution allowed by `ilagr = 3`.
